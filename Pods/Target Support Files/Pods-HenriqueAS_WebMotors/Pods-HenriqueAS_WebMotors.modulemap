@@ -1,0 +1,6 @@
+framework module Pods_HenriqueAS_WebMotors {
+  umbrella header "Pods-HenriqueAS_WebMotors-umbrella.h"
+
+  export *
+  module * { export * }
+}
